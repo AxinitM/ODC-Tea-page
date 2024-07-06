@@ -4,7 +4,6 @@ The page was created as part of the [Front End Developer Course by Orange DC](ht
 
 ## Table of contents
 - [Screenshot](#screenshot)
-- [Links](#links)
 - [The task and my comments](#the-task-and-my-comments)
 - [Built with](#built-with)
 - [Author](#author)
@@ -13,11 +12,7 @@ The page was created as part of the [Front End Developer Course by Orange DC](ht
 
 ![](./image/screenshot.png)
 
-### Links
-
-[Tea-cozy page URL](#)
-
-### The task and my comments
+### The task
 
 Create a web page that matches the sample page.
 
