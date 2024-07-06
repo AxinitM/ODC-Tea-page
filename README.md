@@ -15,13 +15,11 @@ The page was created as part of the [Front End Developer Course by Orange DC](ht
 
 ### Links
 
-[Chess table page URL](#)
+[Tea-cozy page URL](#)
 
 ### The task and my comments
 
-Create a web page that matches the sample page
-
-My comments: all tasks are done: cells/fields change color when hovering the cursor, shapes change color and tooltips etc.
+Create a web page that matches the sample page.
 
 ### Built with
 
